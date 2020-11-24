@@ -6,9 +6,10 @@ I was looking for a software to merge audio files with mp4 files.
 I have looked everywhere for a solution to merge hundreds of videos with a simple software but all of the solution that were out there required that you do it manually one by one and it would only convert one by one.
 
 
-### Installation
+### Installation [Windows only]
 
 This project requires [Node.js](https://nodejs.org/)
+It also requires [ffmpeg, ffprobe, and ffplay executables](https://mega.nz/folder/iz4SETgB#rpC0O9-RS-zj-sYc1qtmCQ)
 
 Install the dependencies and devDependencies and start the script.
 
@@ -40,7 +41,7 @@ $ node VideoConverter.js -c
  - Support more conversions
  - Make configuration flexible and user friendly
  - Support threading for faster conversions
-
+ - Support linux
 License
 ----
 
