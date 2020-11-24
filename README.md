@@ -30,8 +30,8 @@ $ node VideoConverter.js -c
 ## Arguments
 | Argument | Description |
 | ------ | ------ |
-| -c | To start the conversion |
-| -v | To get the output from the ffmpeg executable |
+| -c | to start the conversion |
+| -v | to get the output from the ffmpeg executable |
 | -d | used for debuging |
 | -h | display help menu |
 
