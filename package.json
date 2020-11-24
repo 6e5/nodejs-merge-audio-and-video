@@ -1,0 +1,35 @@
+{
+  "name": "nodevid",
+  "version": "1.0.0",
+  "description": "Merge audio files with mp4 files with nodejs",
+  "main": "VideoConverter.js",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "shutdown-computer": "^1.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arashsofts/nodejs-merge-audio-and-video.git"
+  },
+  "keywords": [
+    "video",
+    "converter",
+    "ffmpeg",
+    "convert",
+    "video",
+    "merge",
+    "audio",
+    "and",
+    "video"
+  ],
+  "author": "arashsofts",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arashsofts/nodejs-merge-audio-and-video/issues"
+  },
+  "homepage": "https://github.com/arashsofts/nodejs-merge-audio-and-video#readme"
+}
