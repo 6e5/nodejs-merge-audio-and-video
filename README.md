@@ -12,14 +12,14 @@ This project requires [Node.js](https://nodejs.org/)
 
 Install the dependencies and devDependencies and start the script.
 
-Important!!
+# Important!!
 The mp4 files that you want to merge must be in the same directory as the script and the audio files.
 Also, the names of the audio files must have the same name as the video files and include "_audio" before the extention name. 
 
 For example:
-Video File: "Our last trip.mp4"
-The audio file must be in this format:
-Audio File: "Our last trip_audio.mp3"
+- Video File: "Our last trip.mp4"
+The audio file must be in this format.
+- Audio File: "Our last trip_audio.mp3"
 
 ```sh
 $ cd nodejs-merge-audio-and-video
