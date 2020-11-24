@@ -19,7 +19,7 @@ Also, the names of the audio files must have the same name as the video files an
 
 For example:
 - Video File: "Our last trip.mp4"
-The audio file must be in this format.
+- The audio file must be in the format below.
 - Audio File: "Our last trip_audio.mp3"
 
 ```sh
